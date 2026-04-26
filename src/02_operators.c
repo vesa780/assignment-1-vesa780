@@ -53,7 +53,7 @@ Goal: Use arithmetic + comparison + logical operators.
 */
 
 int main(void) {
-    int a = 0, b = 0;
+    int a = 15, b = 4;
 
     printf("Enter integer a: ");
     scanf("%d", &a);
